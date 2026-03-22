@@ -18,7 +18,6 @@
 - ☁️ Building cloud infrastructure with **AWS** (EC2, RDS, Aurora, API Gateway)
 - 💻 Developing full-stack applications with **React**, **TypeScript**, **Supabase**, and **PostgreSQL**
 - 🤖 Passionate about automation, security engineering, and scalable systems
-- 📍 Based in Dearborn, Michigan
 
 ---
 
