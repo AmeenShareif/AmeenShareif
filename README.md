@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hi, I'm Ameen Shareif 👋
+# Hi, I'm Ameen Shareif 🔐
 
-### CS & Cybersecurity Student | Full-Stack Developer | Cloud Enthusiast
+### Cybersecurity Professional | SOC Analyst | Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameenshareif)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameen.shareif@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmeenShareif)
 
 </div>
@@ -13,50 +14,93 @@
 
 ## 🚀 About Me
 
-- 🎓 CS & Cybersecurity student at **University of Michigan - Dearborn**
-- 🔐 Pursuing **CompTIA Security+**, **Microsoft SC-900**, and **Google Cybersecurity Professional** certifications
-- ☁️ Building cloud infrastructure with **AWS** (EC2, RDS, Aurora, API Gateway)
-- 💻 Developing full-stack applications with **React**, **TypeScript**, **Supabase**, and **PostgreSQL**
-- 🤖 Passionate about automation, security engineering, and scalable systems
+- 🎓 **BS in Cybersecurity** (Expected May 2026) at **University of Michigan - Dearborn**
+- 🔍 **Technology Support Specialist** @ Ticketmaster (Jun 2024 - Present) – Incident triage, endpoint remediation, Microsoft Sentinel monitoring
+- 🛡️ **IT Desktop Support Technician** @ Armada Management (Feb 2021 - Aug 2023) – Patch management, vulnerability scanning, 95%+ compliance
+- 🔐 **Certifications:** CompTIA Security+ (In Progress), Google Cybersecurity Professional (Dec 2025), Microsoft Cybersecurity Analyst (Dec 2025)
+- 🏠 Building personal SOC lab for detection engineering & threat hunting
+- 📍 Dearborn, Michigan
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-**Languages**
+### Technology Support Specialist @ Ticketmaster
+**Jun 2024 - Present** | Detroit, MI
+- Maintained **98% SLA compliance** across high-volume live event operations
+- Performed after-hours incident triage and endpoint remediation for compromised systems
+- Investigated security alerts in **Microsoft Sentinel** using IOC analysis and containment procedures
+- Collaborated cross-functionally during critical incidents with direct revenue impact
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### IT Desktop Support Technician @ Armada Management
+**Feb 2021 - Aug 2023** | Dearborn, MI
+- Achieved **95%+ patch and vulnerability compliance** across 100+ endpoints
+- Developed **Bash & PowerShell automation scripts**, reducing manual effort by ~34 hours/week
+- Triaged vulnerability scan findings by severity and escalated high-risk items
+- Managed hardware/software lifecycle and user provisioning in multi-site environment
+
+---
+
+## 🔧 Technical Skills
+
+**Security Operations**
+
+![SIEM](https://img.shields.io/badge/SIEM-Microsoft%20Sentinel-0078D4?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-IOC%20Analysis-critical?style=flat-square)
+![Endpoint Remediation](https://img.shields.io/badge/Endpoint-Remediation-success?style=flat-square)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability-Scanning-orange?style=flat-square)
+![Patch Management](https://img.shields.io/badge/Patch-Compliance-blue?style=flat-square)
 
 **Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2%20|%20Azure%20AD-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft-365%20|%20Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20|%20CentOS-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Programming & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-FFCD33?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Full-Stack Development** (Side Projects)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frontend & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Security & Identity**
-
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
 ---
 
-## 📌 Featured Projects
+## 📚 Featured Projects
 
-### 🏠 [HomeLab](https://github.com/AmeenShareif/HomeLab)
-Personal homelab and infrastructure automation projects using Python and cloud tools.
+### 🏠 Home Security Lab
+**Personal Project** | Ongoing
+- Built virtualized SOC environment with **pfSense**, **Kali Linux**, **Windows Server**
+- Developed custom **KQL detection rules** for brute force, lateral movement, and attack patterns
+- Practiced threat hunting and attack simulation in controlled environment
+- [View on GitHub](https://github.com/AmeenShareif/HomeLab)
 
-### 🚗 [DVRR Autopilot Skill](https://github.com/AmeenShareif/dvrr-autopilot-skill)
-Automated skill/agent built with Python for intelligent task execution.
+### 🤖 Autonomous Stock Trading Agent
+**Jan 2026 - Present** | Python, AWS EC2
+- Built modular Python system for data ingestion, signal generation, and simulated order execution
+- Deployed on **AWS EC2** with automated health checks and CloudWatch-style logging
+- Demonstrates cloud infrastructure, DevOps, and full-stack development competency
+- [View on GitHub](https://github.com/AmeenShareif)
+
+### 🚗 DVRR Autopilot Skill
+**Personal Project**
+- Automated Python agent for intelligent task execution
+- [View on GitHub](https://github.com/AmeenShareif/dvrr-autopilot-skill)
 
 ---
 
@@ -76,15 +120,26 @@ Automated skill/agent built with Python for intelligent task execution.
 
 ## 🎯 Currently
 
-- 🔭 Working on **cloud automation** and **full-stack web apps**
-- 📚 Studying for **Security+** and **Microsoft certifications**
-- 🌱 Deepening expertise in **AWS security**, **identity management**, and **threat detection**
-- 💼 Actively seeking **internship opportunities** in software engineering or cybersecurity
+- 🔭 Working on **SOC detection engineering** and **threat hunting** practices
+- 📚 Completing **Security+ certification** (exam scheduled)
+- 🌱 Deepening expertise in **SIEM query optimization**, **incident response workflows**, and **cloud security**
+- 💼 Actively seeking **entry-level SOC analyst** or **security engineer** opportunities
+- 🚀 Building automation scripts to enhance operational security efficiency
+
+---
+
+## 📈 Key Metrics
+
+- **4+ years** of hands-on IT and enterprise operations experience
+- **98%** SLA compliance at current role
+- **95%+** patch and vulnerability compliance achieved
+- **3 professional certifications** (1 in progress)
+- **34 hours/week** saved through automation scripting
 
 ---
 
 <div align="center">
 
-*"Build things. Break things. Learn everything."*
+*"Detect threats. Defend systems. Never stop learning."*
 
 </div>
