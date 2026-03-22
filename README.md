@@ -133,7 +133,7 @@ Cybersecurity professional graduating **May 2026** with **4+ years** of hands-on
 
 ## 📄 Full Resume
 
-For detailed professional experience, education, and certifications, please view my **[full resume](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/75601595/65e4b28e-a3cf-4cb7-a993-8fe4c8b3e2f4/Ameen_Shareif_Resume_2026.pdf)** or connect with me on [LinkedIn](https://linkedin.com/in/ameenshareif).
+    For detailed professional experience and certifications, please connect with me on [LinkedIn](https://linkedin.com/in/ameenshareif) or reach out via email at ameen.shareif@gmail.com.
 
 ---
 
