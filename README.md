@@ -4,7 +4,7 @@
 
 ### Cybersecurity Professional | SOC Analyst | Full-Stack Developer
 
-**📍 Dearborn, MI** | **📧 ameen.shareif@gmail.com** | **📱 (248) 910-2709**
+**📧 ameen.shareif@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameenshareif)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameen.shareif@gmail.com)
@@ -130,15 +130,10 @@ Cybersecurity professional graduating **May 2026** with **4+ years** of hands-on
 - **4+ years** hands-on IT and enterprise operations experience
 
 ---
-
-## 📄 Full Resume
-
-    For detailed professional experience and certifications, please connect with me on [LinkedIn](https://linkedin.com/in/ameenshareif) or reach out via email at ameen.shareif@gmail.com.
-
 ---
 
 <div align="center">
 
-*"Detect threats. Defend systems. Never stop learning."*
+*“Be kind, for everyone you meet is fighting a harder battle. ― Plato"*
 
 </div>
