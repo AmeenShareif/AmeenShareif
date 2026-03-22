@@ -130,7 +130,7 @@ Cybersecurity professional graduating **May 2026** with **4+ years** of hands-on
 - **4+ years** hands-on IT and enterprise operations experience
 
 ---
----
+
 
 <div align="center">
 
