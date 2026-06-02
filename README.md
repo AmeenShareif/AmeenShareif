@@ -15,7 +15,7 @@
 
 Cybersecurity professional graduating **May 2026** with **4+ years** of hands-on IT and enterprise operations experience. Proven track record in incident triage, endpoint remediation, vulnerability management, and patch compliance in high-pressure production environments. Practical exposure to SIEM monitoring (**Microsoft Sentinel**), scripting-based automation, and cloud infrastructure differentiates my experience from typical entry-level candidates.
 
-- 🎓 **BS in Cybersecurity** (Expected May 2026) @ University of Michigan - Dearborn
+- 🎓 **BS in Cybersecurity** (May 2026) @ University of Michigan - Dearborn
 - 🔍 **Technology Support Specialist** @ Ticketmaster (Jun 2024 - Present) – Incident triage, endpoint remediation, SIEM monitoring
 - 🛡️ **IT Desktop Support Technician** @ Armada Management (Feb 2021 - Aug 2023) – Patch management, vulnerability scanning, 95%+ compliance
 - 🔐 **Certifications:** CompTIA Security+ (In Progress), Google Cybersecurity Professional (Dec 2025), Microsoft Cybersecurity Analyst (Dec 2025)
